@@ -1,5 +1,5 @@
 import { useState } from "react";
-import StarMatch from "./components/StarMatch/StarMatch";
+import StarMatch from "./components/StarMatch/StarMatch.jsx";
 
 function App() {
 	const [gameId, setGameId] = useState(1);
